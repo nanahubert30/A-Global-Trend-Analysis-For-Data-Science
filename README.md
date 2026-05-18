@@ -374,5 +374,3 @@ Universities can deploy these models to screen incoming students, monitor at-ris
 Key references include Griffiths (2005) components model of addiction, Andreassen et al. Bergen Social Media Addiction Scale (BSMAS), Kuss & Griffiths neurobiological similarity findings, Saeb et al. Random Forest for depression prediction, and Breiman (2001) Random Forests. Full reference list available in the paper.
 
 ---
-
-*Research conducted January–March 2024 | Python environment with random seed = 42 for reproducibility*
